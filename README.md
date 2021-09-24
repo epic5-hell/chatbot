@@ -17,3 +17,5 @@ $ expo start
 ```
 
 The first time you run `expo start` take a few minutes.
+
+Launch Expo Go on device and scan QR in terminal
