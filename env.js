@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    "type": "service_account",
+    "project_id": "chatbot-react-native-sttq",
+    "private_key_id": "d85b88f0617f7fab6575e65052e1458bedbdd6e8",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOVBi+Y40VeegW\nEXTMeoyteQEliAjCu0qCHh+XBGfCO8UakPrqzyjL98msV0+faxUuFkC8ePgaaMvd\n398Se5V1n4qLoUVqQLw6jHfbzxouvxT/veE/PVouLnT8FVcJMSHaoSCBiNGXiEIm\ntTMD0ed5scEi32wG4VbT34slSJY63TDBPeSLEYBghCjppMw8vgSp2BZPUw39O7H9\nA/Lr+Vb75cvbqFp8m5O2siNcea7fUvzwhGWC4Zvfmz3AYFQOwJY6NmmZNmdi5+Mu\n+GwyrYPVjvZyQhgj6u2R8OmE77wlWJ5oLUsiwfPWgEXIScJbxcgVGJW3Zwi6qwdr\n34oR/IGhAgMBAAECggEAQ9cx5ZPdBTU2ot7tfPhEfhtdzaXbX4/ucTcPYvvPU/WM\nGu6VmhQwUVRxaqmwo/W1Gpi1g2LxDNntQlBETBL3cxvYlY2awdN0MHoUROFlNf6d\nHHOl9sGo/6tFyscHfZ26iGTXR9AhPgZO3eRRWE2xovlXzCwTHHYGMxb67PDfeI2/\ntxL0goYVEuSIx091karwa06BoA6f8uqmwHLw0dipf7pc8Qi4qILEQef36LURNraW\naMq2qjv/HLM8s9HpD9p8uVOGV1xRm1rQYuRtvo2B0FvjfM+6i+FZUOhektfTPjWy\nGeFU13Tq/BpqfsyzeknJAs6b5ir+apssUI6wSRgk8wKBgQDrVZ4rISjz/C9KF8Nm\nqIcDdZ5/qmInnZnYYTTmReXiBWY8RtE94/Hu3gu+MF5YkV4H2Fp1i/B5VAenVbna\nLjKsy95wz04eccQB3p2tqfrKnCShQd8e/+Q2a9ufwvZqtjssbzeagtgAMtrV3zuF\ngGf99LOvZDF/en/QmdfxzD5W9wKBgQDgcmrYOCEdXbN7ahANOwMwMvXp8QA5qj0R\niIr0eaBkrSzrm0Jz6C12k67Qg3fLqNYuKw7Kqtv++UAKl5j8z7g0UGKDdJsU/OWD\nJKlP7H6c2yNHfSFHCy+fWwx5JrH7iLSlfvUBEuShTa0wE1vM07NVzPneZc2JO02E\n42YApHJOJwKBgQCRT72pngEenqJImuHB+t/bR/5FkFypX4xGasdyRMjMxk65e3Tq\nRVz3BM61ckJfZ+tq5rH8kRs8n6FWNv3addo+jmfcunTfIZpJGT+9ow7DmqSXmgf+\nqT0uSW1EeesUO0/QgSARXSeo/73Wf8/OAFq2Gin1a+WQdICFuuj3WglIQwKBgQDA\ne999hsV/dbhTAua5Mf7N+yZCdtiGm6S7wKnKd/RB4vI/LGuVE2zJ4GVvlQ/LrQPh\nnDOXQ2hgBkoRy2j8hvemhbm2mu3U1f3OtkYtsNf0lUpwKLO9Ra6Vr3PHApRo7xhd\nRb/AJ//DBeac8D0uL/AAiUVQoWXfZuhYKtxzeJQ+yQKBgQC3op9RtPShTUzw6/aI\nHIEL4hUXpBZvv0PMVbBziBb3r1h+4/Yk13mKRghAa9gEk6LucA/XUcqsvRajQr8H\npSRx8E2/MTNfBKmnzB1dph1vEVxANGD/kl/kCIGn2pZsyvbHJXWUFj1NSoudBwXF\nMqvdqjpmK12mVeLRKnn75iT/1Q==\n-----END PRIVATE KEY-----\n",
+    "client_email": "chatbot-react-native@chatbot-react-native-sttq.iam.gserviceaccount.com",
+    "client_id": "101401122884720732111",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-react-native%40chatbot-react-native-sttq.iam.gserviceaccount.com"
+}
